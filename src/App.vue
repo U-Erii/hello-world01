@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h2>测试测试测试againagainagain测试测试测试</h2>
-    <img src="http://n.sinaimg.cn/sinacn17/327/w640h487/20180823/d245-hicsiav6449588.jpg"><br/>
+    <img src="http://fcfantasy.cn/feh/image/portrait_stand/ortina_god01.webp"><br/>
     <p>
       唐纳德·特朗普（Donald Trump，1946年6月14日- ），出生于美国纽约，美国共和党籍政治家、企业家、房地产商人、电视人，第45任美国总统。
       特朗普于1968年获得宾夕法尼亚大学沃顿商学院经济学学士学位，随后任职于父亲的房地产公司。1971年接管公司，从事房地产开发，投资范围逐步延伸至其他多个行业。特朗普于2015年6月以美国共和党人身份宣布参选美国总统，
